@@ -8,5 +8,5 @@ Filter of Cat is applied
 
 ![2](https://github.com/Anubhav-dev-web/CodeClauseInternship_Image-Gallery/assets/80172002/15cb77ec-7a5a-449d-858c-8ba6c8c97ba4)
 
-This project is made by me Anubhav Verma 
+This project is made by me ( Anubhav Verma )
  
