@@ -1,8 +1,12 @@
-# React + Vite
+This is an Image gallery  that has the functionality to filter the images based on the categories.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+First Look of Project 
 
-Currently, two official plugins are available:
+![1](https://github.com/Anubhav-dev-web/CodeClauseInternship_Image-Gallery/assets/80172002/8087dbaf-c844-4616-9844-033f2dad9bac)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Filter of Cat is applied
+
+![2](https://github.com/Anubhav-dev-web/CodeClauseInternship_Image-Gallery/assets/80172002/15cb77ec-7a5a-449d-858c-8ba6c8c97ba4)
+
+This project is made by me Anubhav Verma 
+ 
