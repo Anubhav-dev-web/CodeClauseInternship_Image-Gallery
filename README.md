@@ -7,7 +7,7 @@ First Look of Project
 
 Filter of Cat is applied
 
-![2](https://github.com/Anubhav-dev-web/CodeClauseInternship_Image-Gallery/assets/80172002/15cb77ec-7a5a-449d-858c-8ba6c8c97ba4)
+![image](https://github.com/Anubhav-dev-web/CodeClauseInternship_Image-Gallery/assets/80172002/ec3c4d69-d1a8-43e3-8c79-a374d2ceb7fe)
 
 This project is made by me ( Anubhav Verma )
  
