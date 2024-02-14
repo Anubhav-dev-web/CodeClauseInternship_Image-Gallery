@@ -6,10 +6,11 @@ import Gallery from "./components/Gallery";
 const App = () => {
   return (
     <>
-      <h1 className="text-6xl font-bold text-center my-4 decoration-white text-white">
-        Photo Gallery
-      </h1>
-      <Gallery data={data} />
+       <div className="border-b-4">
+        <h1 className="text-6xl heading font-bold text-center my-4 decoration-white text-white">
+          Image Gallery for pets
+        </h1>
+      </div>
     </>
   );
 };
