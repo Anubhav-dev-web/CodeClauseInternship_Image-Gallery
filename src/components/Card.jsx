@@ -4,7 +4,7 @@ import "../index.css";
 
 const ImageCard = ({ id, category, image, name }) => {
   return (
-    <div className="bg-[#F4DFC8] p-4">
+    <div className="bg-[#ffffff] p-4">
       <img
         src={image}
         alt={category}
