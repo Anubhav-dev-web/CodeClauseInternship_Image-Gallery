@@ -5,7 +5,7 @@ First Look of Project
 ![image](https://github.com/Anubhav-dev-web/CodeClauseInternship_Image-Gallery/assets/80172002/0f2b6d4b-097a-4c87-a362-0daeb0ab0a19)
 
 
-Filter of Cat is applied
+Filter of Horse is applied
 
 ![image](https://github.com/Anubhav-dev-web/CodeClauseInternship_Image-Gallery/assets/80172002/7a911b7e-5d7c-4a8c-ad21-3d7b5d977f74)
 
