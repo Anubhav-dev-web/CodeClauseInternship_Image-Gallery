@@ -23,13 +23,16 @@ const Gallery = ({ data }) => {
   return (
    <div className="container mx-auto mt-8 ">
       <div className=" ml-14">
-        <label className="text-2xl font-bold text-white ">Filters:</label>
-        {uniqueCategories.map((category) => (
-          <Button
-            key={category}
-            category={category}
-            applyFilter={() => handleCategoryChange(category)}
-          />
+        <label className="text-2xl font-bold text-white mb-2 ">Filters:</label>
+       <div className="flex flex-wrap gap-2 ml-0">
+          {uniqueCategories.map((category) => (
+            <Button
+              key={category}
+              category={category}
+              applyFilter={() => handleCategoryChange(category)}
+            />
+          ))}
+        </div>
         ))}
       </div>
       <div className=" p-10">
