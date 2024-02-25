@@ -23,10 +23,10 @@ Vite - Build tool for modern web development
 <h2>Geting started</h2>
 
 ```
-git clone https://github.com/yourusername/music-player.git
+git clone https://github.com/Anubhav-dev-web/CodeClauseInternship_Image-Gallery.git
 ```
 ```
-cd imagegallery
+cd Image-Gallery
 ```
 ```
 npm install
